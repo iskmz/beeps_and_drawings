@@ -1,6 +1,6 @@
 # beeps and drawings
 
-<i> coded on September , 2020 </i>
+<i> coded in September , 2020 </i>
 
 + each file is standalone
 + beepnotes1.py & beepnotes2.py depend on [beeply module](https://pypi.org/project/beeply/)
