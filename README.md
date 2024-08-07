@@ -20,7 +20,7 @@
 
 + beepnotes1.py
     + description:  a demonstration of several melodies using 'beeply' module
-    + command:      beepnotes [# of item to play]
+    + command:      beepnotes1 [# of item to play]
     + items: (1) Mary Had A Little Lamb (2) Twinkle Twinkle Little Star  (3) Rock-a-Bye Baby  (4) Happy Birthday to You  (5) If You're Happy and You Know It  (6) We Wish You A Merry Christmas  (7) Ode to Joy  (8) Amazing Grace  (9) Auld Lang Syne (New Year's Eve)  (10) Imperial March
 
 
@@ -28,7 +28,7 @@
     + description:   a demonstration of several melodies using 'beeply' module
         + this version has improved code, more standardized functions to play melodies with a standard DATA STRUCTURE for all melodies data.  Much less repetitions, more efficient & cleaner code.
         + just compose the melody, set the durations and play it !
-    + command:        beepnotes [# of item to play]
+    + command:        beepnotes2 [# of item to play]
     + items:  (1) Mary Had A Little Lamb (2) Twinkle Twinkle Little Star  (3) Rock-a-Bye Baby  (4) Happy Birthday to You  (5) If You're Happy and You Know It  (6) We Wish You A Merry Christmas  (7) Ode to Joy  (8) Amazing Grace  (9) Auld Lang Syne (New Year's Eve)  (10) Imperial March  (11) The Godfather Theme
 
 
