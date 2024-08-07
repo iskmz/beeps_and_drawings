@@ -1,6 +1,6 @@
 # beeps and drawings
 
-<i> first uploaded on September , 2023 </i> <br/>
+<i> uploaded on September , 2023 </i> <br/>
 <i> originally coded on September , 2020 </i><br/>
 
 
