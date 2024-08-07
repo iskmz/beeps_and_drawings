@@ -1,10 +1,11 @@
 # beeps and drawings
 
+<i> last update: 2024-08-07 , 21:21 local time </i> <br/>
 <i> uploaded on September , 2023 </i> <br/>
 <i> originally coded on September , 2020 </i><br/>
 
 
-+ each file is standalone
++ each file is standalone (except the menu files)
 + beepnotes1.py & beepnotes2.py depend on [beeply module](https://pypi.org/project/beeply/)
 + all other files depend on built-in modules (in a windows system)
 
@@ -37,3 +38,12 @@
     + command:        draw [# of item to draw]
     + items:  (1) square  (2) circle  (3) triangle  (4) infinity  (5) spiral in-out  (6) spiral out-in  (7) square-spiral in-out  (8) square-spiral out-in  (9) star (10) star sky (11) hexagon (12) pentagon (13) septagon (14) octagon (15) nested infinity (16) ellipses colorful special (17) spiral of infinity (18) flower (19) cube (20) helix (21) Rainbow Benzene (22) Y Fractal Tree (23) sine wave
 
+- - - - -
+<b> update: 2024-08-07 , 21:21 local time </b> <br/>
++ added console menus for [beepnotes2.py](beepnotes2.py) and [draw.py](draw.py) which are respectively named: [beepnotes2__menu.py](beepnotes2__menu.py)  &  [draw__menu](draw__menu.py)
++ these two menus are derived from the repo: [python_generic_console_menu](https://github.com/iskmz/python_generic_console_menu)
++ these two menu files are <b><i> NOT STANDALONE </b></i>, as they depend on the original scripts being in the same folder to work.
+
+<br/>
+
+<img src="https://github.com/user-attachments/assets/19bed6d7-ce77-4cb5-9322-2c7363a42be3"/>
